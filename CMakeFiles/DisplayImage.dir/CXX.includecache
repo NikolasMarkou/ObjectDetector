@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/arxwn/Repositories/OpenCV/TutorialC/ExtractObjects.cpp
+argp.h
+-
+stdio.h
+-
+stdlib.h
+-
+opencv2/opencv.hpp
+-
+
